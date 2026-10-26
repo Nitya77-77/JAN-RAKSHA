@@ -1,0 +1,6 @@
+scenario,person_count,average_speed,counterflow,expected_status
+normal_flow,3,60,False,SAFE
+moderate_crowd,8,45,False,SAFE
+slow_dense_crowd,12,15,False,HIGH
+counterflow_crowd,10,30,True,HIGH
+critical_congestion,15,5,True,CRITICAL
