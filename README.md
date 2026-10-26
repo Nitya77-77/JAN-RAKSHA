@@ -21,20 +21,20 @@ multiple crowd zones and identify conditions such as:
 - congestion
 - rapidly increasing risk indicators
 
-JAN RAKSHA acts as an AI-assisted decision support layer over crowd footage.
+JAN RAKSHA acts as an AI assisted decision support layer over crowd footage.
 
 - Person detection using YOLO
-- Multi-object tracking using ByteTrack
-- Zone-based crowd monitoring
+- Multi object tracking using ByteTrack
+- Zone based crowd monitoring
 - Crowd concentration analysis
 - Movement speed estimation
 - Movement direction analysis
-- Counter-flow detection
+- Counter flow detection
 - Explainable Crowd Risk Index (0-100)
 - Temporal risk trend analysis
-- Early-warning generation
-- Full-video analytics
-- Interactive Streamlit command-center dashboard
+- Early warning generation
+- Full video analytics
+- Interactive Streamlit command center dashboard
 - Automated tests
 
 Crowd Video
